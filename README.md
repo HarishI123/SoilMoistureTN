@@ -21,8 +21,8 @@ Overall, the SoilMoisture RShiny project is a valuable tool for anyone intereste
 **Future developments:** The project is constantly being updated and improved. Some of the planned future developments include adding support for additional data sources, improving the user interface, and integrating machine learning algorithms for more advanced data analysis.
 
 ## Helpful Links
-*[Shiny Gallery](https://shiny.rstudio.com/gallery/)
-*[WRIS](https://indiawris.gov.in/wris/#/)
+* [Shiny Gallery](https://shiny.rstudio.com/gallery/)
+* [WRIS](https://indiawris.gov.in/wris/#/)
 
 ## License
-*MIT License
+* MIT License
