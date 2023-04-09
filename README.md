@@ -19,3 +19,10 @@ Overall, the SoilMoisture RShiny project is a valuable tool for anyone intereste
 **Open source:** The SoilMoisture RShiny project is an open-source project, which means that the source code is available to the public. This allows other developers to contribute to the project, improve its functionality, and adapt it for their own purposes.
 
 **Future developments:** The project is constantly being updated and improved. Some of the planned future developments include adding support for additional data sources, improving the user interface, and integrating machine learning algorithms for more advanced data analysis.
+
+## Helpful Links
+*[Shiny Gallery](https://shiny.rstudio.com/gallery/)
+*[WRIS](https://indiawris.gov.in/wris/#/)
+
+## License
+*MIT License
