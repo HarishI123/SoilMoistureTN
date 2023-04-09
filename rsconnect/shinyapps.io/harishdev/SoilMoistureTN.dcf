@@ -1,0 +1,14 @@
+name: SoilMoistureTN
+title: SoilMoistureTN
+username:
+account: harishdev
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8800055
+bundleId: 7066753
+url: https://harishdev.shinyapps.io/SoilMoistureTN/
+when: 1681026083.55649
+lastSyncTime: 1681026083.5565
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: connect/connect.R
